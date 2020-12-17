@@ -25,7 +25,10 @@ public class ConsumerService
             System.out.println("Has key: " + key);
 
             SearchMetrics.AnalyzeData(key, message);
+
+
       }
+
 
 
 
